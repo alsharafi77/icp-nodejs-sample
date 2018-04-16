@@ -4,7 +4,7 @@
 
 image:
   # Production image
-  repository: ibmcom/icp-nodejs-sample
+  repository: mycluster.icp:8500/default
   tag: latest
   # tag: 6
   # tag: 8
